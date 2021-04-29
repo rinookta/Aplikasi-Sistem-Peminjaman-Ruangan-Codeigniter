@@ -5,4 +5,4 @@ Aplikasi digunakan untuk memanagement ketersediaan ruangan di sebuah instansi (S
 
 -Ubah koneksi database
 
-Jalankan aplikasi di browser
+-Jalankan aplikasi di browser
